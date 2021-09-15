@@ -1,0 +1,8 @@
+<!doctype HTML>
+<html lang='fr'>
+<head>
+<meta title="bebop a lula">
+</head>
+<body>
+</body>
+</html>
