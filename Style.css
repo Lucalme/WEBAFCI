@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    background-color: papayawhip;
+}
+
+header {
+    background-color: peachpuff;
+    height:10vh;
+    width: 100%;
+    margin:0;
+}
+
+header div.conteneur{
+    height: 100%;
+    width: 100%;
+    display:flex;  
+}
+
+header div.titre{
+    display: flex;
+    position: absolute;
+    z-index: 2;
+    
+}
+
+header h1{
+    margin: 0px;
+}
+
+header div.bandereau{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap:wrap;
+    align-content: flex-end;
+    z-index: 0;
+}
+
+header div.boite {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: peru;
+    height: 3vh;
+    position:relative²;
+}
+header div.boite:hover{
+    background-color: orange;
+}
+
